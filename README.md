@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on arduino and c++ projects
 - 📫 How to reach me:  don't, i only read texts
 - 😄 Pronouns: me,my
-- ⚡ Fun fact: I like to cook
+- ⚡ Fun fact: I like to cook, i used to make scratch games under an alias
 
 <!---
 Floateddata693/Floateddata693 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
