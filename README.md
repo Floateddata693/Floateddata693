@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Floateddata693
-- 👀 I’m interested in coding, video games, and sleep
-- 🌱 I’m currently learning how to not die from too much college homework
+- 👀 I’m interested in coding, cooking, and sleep
+- 🌱 I’m currently learning how to sleep enough at night
 - 💞️ I’m looking to collaborate on arduino and c++ projects
 - 📫 How to reach me:  don't, i only read texts
 - 😄 Pronouns: me,my
